@@ -9,5 +9,31 @@
 h1 {
     font-family: 'Callme';
 }
-.nav-link
-{color:black !important; }
+
+.nav-link {
+    color: black !important;
+}
+
+
+@media (max-width: 768px)
+{
+    .carousel-item img {
+        width: 90%;
+        margin: 0 auto;
+    }
+}    
+
+@media (max-width: 768px)
+{
+    .col-md-6 {
+    width: 100% ;
+   
+
+    margin: 0 auto ;
+    }
+
+
+}
+
+
+    
