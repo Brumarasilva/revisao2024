@@ -8,6 +8,7 @@
 
 h1 {
     font-family: 'Callme';
+    background-color:#f3a5a5
 }
 
 .nav-link {
@@ -34,6 +35,11 @@ h1 {
 
 
 }
+.btn {
 
+    background-color: #f3a5a5 !important; /* ou outro tom de rosa desejado */
+    color: #f3a5a5;
+
+}
 
     
