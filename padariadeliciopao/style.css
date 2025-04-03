@@ -32,6 +32,8 @@ h1 {
 
     margin: 0 auto ;
     }
+        
+
 
 
 }
@@ -41,5 +43,28 @@ h1 {
     color: #f3a5a5;
 
 }
+    .containerimagefix
+    {
+     
+        margin-left: 0px !important;
+        
+    }
+    .imagefix
+    {
+        width: 100%;
+        height: 100%;
+
+    }
+    .clearfix 
+     {
+       
+    
+     }   
+     @media (min-width: 768px) {
+        .ms-md-3 {
+            margin-left: 0rem !important;
+        }
+    }
+        
 
     
